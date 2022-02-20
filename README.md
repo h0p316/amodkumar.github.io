@@ -7,10 +7,6 @@
 <p align="center">
   The First iteration of <a href="https://amodkumar.github.io/" target="_blank">amodkumar.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/h0p316/amodkumar.github.io-v1" target="_blank">Version 1</a>
-</p>
 
 <div align="center">
   <img alt="Demo" src="https://github.com/h0p316/amodkumar.github.io/blob/main/src/images/demo.png" />
