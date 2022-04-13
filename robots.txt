@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://h0p316.github.io/amodkumar.github.io/sitemap/sitemap-index.xml
+Host: https://h0p316.github.io
